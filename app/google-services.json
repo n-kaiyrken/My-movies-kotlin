@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348190469328",
+    "project_id": "my-movies-kotlin",
+    "storage_bucket": "my-movies-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348190469328:android:8ddd5e1cca8cdff82402d5",
+        "android_client_info": {
+          "package_name": "com.example.mymovieskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348190469328-63urkqgrjb4b8cruo8fi1eaeg3i4e4v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuySAcqSs2QJIpO7KJI_olYXScYZ3p10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348190469328-63urkqgrjb4b8cruo8fi1eaeg3i4e4v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
