@@ -1,6 +1,7 @@
 # My-movies-kotlin
 USED: FireBase Auth, Retrofit, MVVM, RecyclerView
-![Screenshot_sign_in_pass]
+
+
 <img src="https://user-images.githubusercontent.com/111049118/193454358-6913df93-e0f7-4392-94bd-c346639b03ed.png" width=25% height=25%>
 
 <img src="https://user-images.githubusercontent.com/111049118/193454370-ab3ddfb6-1bee-4c68-bac7-96a7ddca8c78.png" width=25% height=25%>
